@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-jest",
+  "version": "1.0.0",
+  "description": "Basic project to test Jest along with NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --verbose --coverage"
+  },
+  "keywords": [],
+  "author": "Joan Galtés i Moreno <donbuche@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
